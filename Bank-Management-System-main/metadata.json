@@ -1,0 +1,6 @@
+{
+  "name": "HooBank",
+  "description": "Next-generation connected banking and payment platform with real-time currency conversion, live interbank exchange rates, international payment calculations, spending insights, transaction processing, accounts, cards, and bill management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
